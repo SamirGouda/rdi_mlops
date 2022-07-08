@@ -33,4 +33,4 @@ jobs:
       -
         name: Test-server
         run: |
-          python test/test_API.py
+          python test/test_server.py
